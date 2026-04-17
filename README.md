@@ -246,6 +246,15 @@ flowchart TD
 
 ---
 
+## 🔗 更多中文 AI 实战指南
+
+| 项目 | 简介 |
+|------|------|
+| [📈 Kronos 中文实战指南](https://github.com/Vincentwei1021/kronos-guide-cn) | 金融 K 线基础模型 · A 股预测 · 微调 · 回测集成 |
+| [🚀 MegaTrain 中文实战指南](https://github.com/Vincentwei1021/megatrain-guide-cn) | 单 GPU 训练 100B+ 大模型 · 硬件选购 · 性能对比 |
+
+---
+
 ## 📄 许可证
 
 [MIT License](LICENSE) © 2026
